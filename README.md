@@ -8,4 +8,4 @@ Wide&Deep模型介绍: http://note.youdao.com/s/Ngoja0iI
 DeepFM模型介绍: http://note.youdao.com/s/9j2G6Nxs
 
 ## Acknowledgements
-Our code is developed based on [https://github.com/shawroad/DeepCTR-pytorch](DeerCTR-pytorch)
+Our code is developed based on [DeerCTR-pytorch](https://github.com/shawroad/DeepCTR-pytorch)
